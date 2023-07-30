@@ -1,3 +1,6 @@
+## Live Preview
+ https://kunal-nathani.github.io/Tribute/
+
 # Tribute Page
 
 A
